@@ -1,0 +1,27 @@
+{
+  "name": "react-html5-animation",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joehua87/react-html5-animation.git"
+  },
+  "author": "joehua87",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joehua87/react-html5-animation/issues"
+  },
+  "homepage": "https://github.com/joehua87/react-html5-animation#readme",
+  "devDependencies": {
+    "react-fatigue-dev": "github:joehua87/react-fatigue-dev",
+    "react-motion": "^0.4.2",
+    "redux-saga": "^0.9.5"
+  },
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
